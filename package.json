@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Atkrista/learnyounode/issues"
   },
-  "homepage": "https://github.com/Atkrista/learnyounode#readme"
+  "homepage": "https://github.com/Atkrista/learnyounode#readme",
+  "dependencies": {
+    "strftime": "^0.10.1",
+    "through2-map": "^3.0.0"
+  }
 }
